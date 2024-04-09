@@ -1,2 +1,8 @@
 2f)¿Puede ver el archivo tp2_1_.c?
 No lo puedo ver porque fue creado en la rama "Opcion_2" entonces no se encuentra en la rama principal (main)
+
+¿Que difencias nota?
+Se nota como se divide en ramas los cambios que voy realizando
+
+¿Que qué nota?
+Se combino la rama pricipal con Opcion_2, ahora en la carpeta puedo notar todos los archivos que fui creando.
